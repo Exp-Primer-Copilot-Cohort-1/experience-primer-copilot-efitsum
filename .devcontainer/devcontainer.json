@@ -1,7 +1,7 @@
 
 {
     //Naming this configuration
-    "name": "Codespace for Skills son!",
+    "name": "Codespace for Skills!",
     "customizations": {
         "vscode": {
             "extensions": [
